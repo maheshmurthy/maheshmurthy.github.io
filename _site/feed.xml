@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Some Stuff</title>
+    <description></description>
+    <link>https://mmurthy.com/</link>
+    <atom:link href="https://mmurthy.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Jan 2016 20:57:23 -0500</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 20:57:23 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Hello World again!</title>
+        <description>&lt;p&gt;New Year. New Beginnings. Hello World!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 19:56:10 -0500</pubDate>
+        <link>https://mmurthy.com/2016/01/11/hello-world-again.html</link>
+        <guid isPermaLink="true">https://mmurthy.com/2016/01/11/hello-world-again.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
